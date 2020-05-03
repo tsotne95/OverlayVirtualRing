@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="amqp-client-5.9.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libraries/amqp-client-5.9.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/gson-2.8.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/slf4j-jdk14-1.7.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/slf4j-api-1.7.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/junit-4.13.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
