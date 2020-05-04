@@ -8,7 +8,7 @@
 Depending shortest path between nodes I create virtual ring layer. To determine shortest path between all pairs, I used ***Floyd-Warshall*** algorithm. And I consider actual distances between the nodes (not only node adjacency).   
 
 For to run application, you need:
-* JRE
+* JDK
 * RabbitMQ (obviously)
 
 
